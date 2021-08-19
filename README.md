@@ -30,3 +30,4 @@ Note this project does require setting up [Google OAuth2.0](http://www.passportj
 ## Limitations
 - No option to share lists at this time
 - Only a single list per user
+- Google OAuth not working on the published version as I am awaiting verification from Google
